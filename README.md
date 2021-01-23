@@ -1,6 +1,8 @@
 # Switchbot Controller Util
 Util for controlling a switchbot switch, either over MQTT or via a HTTP API (https://www.switch-bot.com/)
 
+This fork has been modified to work with node v12 and use @abandonware/noble.
+
 # Installation
 Run `npm install -g https://github.com/bujvary/switchbot-ctrl`
 
