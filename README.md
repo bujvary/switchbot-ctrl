@@ -2,7 +2,7 @@
 Util for controlling a switchbot switch, either over MQTT or via a HTTP API (https://www.switch-bot.com/)
 
 # Installation
-Run `npm install -g https://github.com/binsentsu/switchbot-ctrl`
+Run `npm install -g https://github.com/bujvary/switchbot-ctrl`
 
 # Usage
 `switchbotctrl` by itself will print usage information
