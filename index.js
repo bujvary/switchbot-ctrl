@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const readlineSync = require('readline-sync');
-const noble = require('noble');
+const noble = require('@abandonware/noble');
 const log = require('debug')('switchbot*');
 const debugLog = require('debug')('switchbot');
 const switchBot = require('./src/switchbot');
